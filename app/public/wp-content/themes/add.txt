@@ -1,0 +1,30 @@
+https://raddy.dev/blog/how-to-create-a-custom-ecommerce-theme-on-wordpress-woocommerce-local-underscores-bootstrap/
+
+// 35:59 min css
+// turn on the sass
+
+http://rentcartheme.local/wp-admin/edit.php?post_type=product
+http://rentcartheme.local/
+
+Main scss change bg-color 44:23
+Color to the border-bottom 52:01
+
+Woocommerce Shortcodes 1:53:04
+
+2:09:01 opacity to the background => opacity bootstrap tag
+2:17:00 opacity to the background => opacity bootstrap tag
+2:20:28 Special Offers Section => Make Sliders
+
+2:37:02 Widget Menus
+2:43:49 Widget Menus Styles
+
+Fix the SCSS
+
+Make two templates
+Add svg files or any animations
+Make Figma Designe
+
+2:45:59
+2:54:01 Each Pages
+3:01:01
+3:04:17

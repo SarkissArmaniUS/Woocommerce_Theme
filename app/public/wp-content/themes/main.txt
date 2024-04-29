@@ -1,0 +1,68 @@
+local => in local screen windows take the trusted
+
+Take the theme's screenshot
+
+Install the woocommerce => for client
+
+Products => (Products) Import => Import the {
+C:\Users\user\Local Sites\woocommercemain\app\public\wp-content\plugins\woocommerce\sample-data
+} => Continue => (Scroll down) Run the importer => View products
+
+Bootstrap => Download => (Source files) Download source
+
+Create css files in active theme => add the installed bootstrap folder
+
+After open the active theme in VSCode
+
+In css folder => main.scss
+
+VSCode => (Plugins) Live SASS Compiler after turn on the Watch SCSS in the bottom of interface
+After in terminal OUTPUT shows Watching...
+woocommercetheme
+
+VSCode => functions.php => {
+/**
+ * Enqueue scripts and styles.
+ */
+Add wp_enqueue_style('woocommercetheme-main', get_template_directory_uri() . '');
+And in the '' add /css/main.css
+So its getting 	wp_enqueue_style('woocommercetheme-main', get_template_directory_uri() . '/css/main.css');
+}
+
+Add fonts in functions.php
+
+Also we can check how to use it, so get the Bootstrap Web => Get Started => Customize => Sass
+
+When we make @import so we need only ./files
+And dont need node_modules
+
+yt 27:17 minimized file{
+https://raddy.dev/blog/how-to-create-a-custom-ecommerce-theme-on-wordpress-woocommerce-local-underscores-bootstrap/
+}
+
+yt 30:05 => Main Coding
+
+WP Admin => Settings => Reading => (Select) Static Page
+Homepage choose the Sample Page => Save Changes
+
+WP Admin => Pages => Sample Page => Edit => Except of Sample Page make the Home and Save it
+
+Create front-page.php
+Copy everything in page.php and add to the front-page.php
+And write the h1 Front Page to make it sure that works and nake sure if we need sidebar
+
+For the SVG File install the WP SVG Images
+
+>>> 35:01 Turn the watch scss
+
+WooCM Search Plugin
+In the settings 1:05:51
+
+Main Slider 1:27:11
+
+Special Offers yt 2:18:15
+
+==========
+Pages, SCSS, Fonts, 
+Woocomerce: Products List, Popular Products, any settings for example
+==========
