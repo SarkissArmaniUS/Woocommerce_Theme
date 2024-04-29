@@ -18,7 +18,16 @@ PHP Functionality: PHP scripting is employed for dynamic content generation and 
 ***
 
 ![screencapture1 – копія](https://github.com/SarkissArmaniUS/Woocommerce_Theme/assets/97789627/bdfc8040-8945-43c8-a5e1-06692d4db812)
+
+***
+
 ![screencapture1 – копія (2)](https://github.com/SarkissArmaniUS/Woocommerce_Theme/assets/97789627/0072710c-d5a8-43ba-807b-a3457b21b6f7)
+
+***
+
 ![screencapture1-mb – копія](https://github.com/SarkissArmaniUS/Woocommerce_Theme/assets/97789627/c04a0faa-18de-4b0f-8a65-cde71749eac7)
+
+***
+
 ![screencapture1-mb – копія (2)](https://github.com/SarkissArmaniUS/Woocommerce_Theme/assets/97789627/f9c59f91-8524-4d91-96fa-a5d1fcfd6fe9)
 
